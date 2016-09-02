@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>34.0</version>
     <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
@@ -35,6 +36,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>a132__c.a132_label__c</members>
         <members>obj1__c.obj1label__c</members>
         <name>CustomField</name>
     </types>
@@ -97,6 +99,7 @@
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>a132__c</members>
         <members>obj1__c</members>
         <name>CustomObject</name>
     </types>
@@ -183,6 +186,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>a132__c-a132 Layout</members>
         <members>obj1__c-obj1 Layout</members>
         <name>Layout</name>
     </types>
@@ -351,13 +355,6 @@
         <name>Role</name>
     </types>
     <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Opportunity.DeliveryStatus</members>
-        <name>WebLink</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>Activities</members>
         <members>Address</members>
@@ -382,5 +379,21 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>35.0</version>
+    <types>
+        <members>a132__c</members>
+        <members>obj1__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Account.Billing</members>
+        <members>Campaign.ViewCampaignInfluenceReport</members>
+        <members>Case.UpsellCrosssellOpportunity</members>
+        <members>Opportunity.DeliveryStatus</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>a132__c</members>
+        <members>obj1__c</members>
+        <name>Workflow</name>
+    </types>
 </Package>
