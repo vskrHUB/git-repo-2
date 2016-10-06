@@ -44,24 +44,19 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
-    <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
-    <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSharing>true</enableSharing>
-    <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>a132_label__c</fullName>
         <externalId>false</externalId>
         <label>a132 label</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
+        <type>Phone</type>
     </fields>
     <label>a132</label>
     <nameField>
