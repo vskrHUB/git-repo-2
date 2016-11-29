@@ -373,6 +373,19 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Asset</members>
+        <members>Campaign</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <members>Lead</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>User</members>
+        <members>obj1__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
@@ -439,5 +452,5 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>30.0</version>
+    <version>34.0</version>
 </Package>
