@@ -15,13 +15,6 @@
         <value>testing testing</value>
     </labels>
     <labels>
-        <fullName>test123</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>test123</shortDescription>
-        <value>546789123456789</value>
-    </labels>
-    <labels>
         <fullName>test156</fullName>
         <language>en_US</language>
         <protected>true</protected>
