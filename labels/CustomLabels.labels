@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>a121</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>a121</shortDescription>
-        <value>testing ghj</value>
-    </labels>
-    <labels>
         <fullName>label_121</fullName>
         <language>en_US</language>
         <protected>true</protected>
