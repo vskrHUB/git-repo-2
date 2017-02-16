@@ -8,13 +8,6 @@
         <value>test testing testing</value>
     </labels>
     <labels>
-        <fullName>test</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>test</shortDescription>
-        <value>testing testing</value>
-    </labels>
-    <labels>
         <fullName>test156</fullName>
         <language>en_US</language>
         <protected>true</protected>

@@ -47,7 +47,6 @@
     </types>
     <types>
         <members>label_121</members>
-        <members>test</members>
         <members>test156</members>
         <name>CustomLabel</name>
     </types>
@@ -119,7 +118,6 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
-        <members>a132__c-a132 Layout</members>
         <members>obj1__c-obj1 Layout</members>
         <name>Layout</name>
     </types>
