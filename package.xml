@@ -3,8 +3,10 @@
     <version>39.0</version>
     <types>
         <members>A1</members>
+        <members>A12</members>
         <members>A53</members>
         <members>A55</members>
+        <members>Sai123Class2</members>
         <members>Sai159753Class2</members>
         <members>SampleApexTestClass</members>
         <members>Test1</members>
