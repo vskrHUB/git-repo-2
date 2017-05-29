@@ -5,11 +5,13 @@
         <members>A1</members>
         <members>A12</members>
         <members>A53</members>
+        <members>A54</members>
         <members>A55</members>
         <members>Sai123Class2</members>
         <members>Sai159753Class2</members>
         <members>SampleApexTestClass</members>
         <members>Test1</members>
+        <members>Test132</members>
         <members>Test2</members>
         <name>ApexClass</name>
     </types>
