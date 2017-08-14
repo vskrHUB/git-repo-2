@@ -31,6 +31,8 @@
     </types>
     <types>
         <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <members>standard__Community</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -193,6 +195,12 @@
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Account.Standard_Account_Match_Rule_v1_0</members>
+        <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
+        <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
+        <name>MatchingRule</name>
     </types>
     <types>
         <members>Admin</members>
